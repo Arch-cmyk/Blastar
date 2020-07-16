@@ -1,6 +1,6 @@
 # Play Blastar!
 
-You can play Blastar [here](https://ojaswy.github.io/Blastar/).
+You can play Blastar [here](https://blastar-1984.appspot.com/).
  
 ## About Blastar
 
@@ -14,5 +14,5 @@ Elon has since moved beyond 8-bit spaceships.
 
 ###### This information is taken from [here](https://blastar-1984.appspot.com/)
 
-![](https://github.com/Ojaswy/Blastar/blob/master/img/blastar.PNG)
+![](https://blastar-1984.appspot.com/)
 
